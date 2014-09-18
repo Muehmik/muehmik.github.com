@@ -4,7 +4,7 @@
   <title><![CDATA[Muehmik's World]]></title>
   <link href="http://Muehmik.github.io/atom.xml" rel="self"/>
   <link href="http://Muehmik.github.io/"/>
-  <updated>2014-09-18T22:40:59+09:00</updated>
+  <updated>2014-09-19T01:20:54+09:00</updated>
   <id>http://Muehmik.github.io/</id>
   <author>
     <name><![CDATA[Muehmik]]></name>
@@ -14,11 +14,32 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Hello Github Blog]]></title>
+    <title type="html"><![CDATA[About Me.]]></title>
     <link href="http://Muehmik.github.io/blog/2014/09/18/hello-github-blog/"/>
     <updated>2014-09-18T22:36:27+09:00</updated>
     <id>http://Muehmik.github.io/blog/2014/09/18/hello-github-blog</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<h3>Profile.</br></h3>
+
+<blockquote><p>Programmer</br>
+Music Collector</br>
+Lifeism</br></p>
+
+<hr /></blockquote>
+
+<h3>My FAV.</h3>
+
+<p><code>CODING(From Now On)</code></br>
+<code>Find sth. Cool!</code></br>
+<code>Hip-Hop/Rap</code>,<code>Jazz</code>,<code>Indie</code>,<code>Systh</code>,<code>Electronic</code></br>
+<code>Football</code>,<code>Basketball</code>,<code>PES</code></p>
+
+<hr />
+
+<h3>Found Me.</h3>
+
+<h6>微博-><a href="http://weibo.com/muehmik/" title="weibo">@Muehmik</a></h6>
+
+<h6>虾米-><a href="http://www.xiami.com/u/2459372?spm=0.0.0.0.nmodvR/" title="xiami">Muehmik&rsquo;s Music World.</a></h6>
 ]]></content>
   </entry>
   
