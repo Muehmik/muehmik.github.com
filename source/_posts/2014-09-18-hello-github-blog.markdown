@@ -9,8 +9,8 @@ categories:
 >Programmer</br>
 >Music Collector</br>
 >Lifeism</br>
-***
-
+*** 
+<!--more-->
 ###My FAV.
 `CODING(From Now On)`</br>
 `Find sth. Cool!`</br>
