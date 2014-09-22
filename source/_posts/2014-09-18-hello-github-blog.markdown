@@ -3,7 +3,7 @@ layout: post
 title: "About Me."
 date: 2014-09-18 22:36:27 +0900
 comments: true
-categories: 
+categories: LIFE
 ---
 ###Profile.</br>
 >Programmer</br>
