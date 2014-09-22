@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Muehmik's World]]></title>
-  <link href="http://Muehmik.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Life | Muehmik's World]]></title>
+  <link href="http://Muehmik.github.io/blog/categories/life/atom.xml" rel="self"/>
   <link href="http://Muehmik.github.io/"/>
   <updated>2014-09-23T00:36:48+09:00</updated>
   <id>http://Muehmik.github.io/</id>
